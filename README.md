@@ -4,7 +4,7 @@
  </br>
  
 ## FlappyBat
- Like FlappyBird, but it's a bat
+ Like Flappy Bird, but it's a bat
 
 </div>
 </br>
