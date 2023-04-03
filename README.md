@@ -2,6 +2,7 @@
  
  <a href="Bat\Idle\Bat Idle.gif"><img src="Bat\Idle\Bat Idle.gif" border="0" alt="animated-bat-flying" /></a>
  </br>
+ 
 ## FlappyBat
  Like FlappyBird, but it's a bat
 
